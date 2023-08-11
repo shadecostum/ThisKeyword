@@ -17,11 +17,13 @@ namespace ThisKeywordPoc.Model
             set { _result = value; }//this used to value setting from main function can set directly
         }
 
-
-        public  Calculator CalculatorAdd(int number1)
+        //The return this statement in the CalculatorAdd() method is important because
+        //it allows us to chain method calls together
+        // In this case, we are chaining three method calls togethe
+        public Calculator CalculatorAdd(int number1)
         {
             Result += number1;
-           
+            //To refer to the current object:
             return this;
         }
       
