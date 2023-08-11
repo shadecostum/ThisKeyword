@@ -1,0 +1,8 @@
+C:\Users\acer\source\repos\ThisKeywordPoc\bin\Debug\ThisKeywordPoc.exe.config
+C:\Users\acer\source\repos\ThisKeywordPoc\bin\Debug\ThisKeywordPoc.exe
+C:\Users\acer\source\repos\ThisKeywordPoc\bin\Debug\ThisKeywordPoc.pdb
+C:\Users\acer\source\repos\ThisKeywordPoc\obj\Debug\ThisKeywordPoc.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ThisKeywordPoc\obj\Debug\ThisKeywordPoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\ThisKeywordPoc\obj\Debug\ThisKeywordPoc.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ThisKeywordPoc\obj\Debug\ThisKeywordPoc.exe
+C:\Users\acer\source\repos\ThisKeywordPoc\obj\Debug\ThisKeywordPoc.pdb
